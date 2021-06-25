@@ -1,0 +1,19 @@
+.train{
+    background-color: rgb(218, 120, 55);
+    text-align: center;
+    color: aliceblue;
+}
+.ora{
+    color: orange;
+}
+.si{
+    size: 100px;
+    margin-left:12%;
+}
+.foot{
+    background-color:burlywood;
+    color: aliceblue;
+}
+body{
+    background-image: url("https://wallpapercave.com/wp/wp7213366.jpg");
+}
